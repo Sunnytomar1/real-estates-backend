@@ -1,1 +1,3 @@
-# real-estates-backend
+
+# cd real-backend
+# nodemon server.js
